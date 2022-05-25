@@ -1,11 +1,11 @@
 {
   "name": "react-locomotive-scroll",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A locomotive-scroll React wrapper",
   "main": "module/index.js",
   "module": "module/index.js",
   "typings": "module/index.d.ts",
-  "repository": "git@github.com:toinelin/react-locomotive-scroll.git",
+  "repository": "git@github.com:draZer0/react-locomotive-scroll.git",
   "author": "Antoine <contact@antoinelin.com>",
   "license": "MIT",
   "keywords": [
